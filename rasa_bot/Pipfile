@@ -61,7 +61,7 @@ websockets = "==10.4"
 werkzeug = "==2.3.6"
 wincertstore = "==0.2"
 zipp = "==3.15.0"
-pymongo = "==4.4.0"
+pymongo = "==4.6.3"
 
 [dev-packages]
 
