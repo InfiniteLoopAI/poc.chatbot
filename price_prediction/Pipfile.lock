@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a72911d1ec15c202bf4efd777204f9a2405927a8d02b5208578117e8db220feb"
+            "sha256": "eaec797e9df6985bb1f9a44385350c582bc7089ec4d9cd69820ae23559139de4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -183,11 +183,12 @@
         },
         "jinja2": {
             "hashes": [
-                "sha256:31351a702a408a9e7595a8fc6150fc3f43bb6bf7e319770cbc0db9df9437e852",
-                "sha256:6088930bfe239f0e6710546ab9c19c9ef35e29792895fed6e6e31a023a182a61"
+                "sha256:4a3aee7acbbe7303aede8e9648d13b8bf88a429282aa6122a993f0ac800cb369",
+                "sha256:bc5dd2abb727a5319567b7a813e6a2e7318c39f4f487cfe6c89c6f9c7d25197d"
             ],
             "index": "pypi",
-            "version": "==3.1.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==3.1.4"
         },
         "joblib": {
             "hashes": [
@@ -322,6 +323,7 @@
                 "sha256:fc7b548b17d238737688817ab67deebb30e8073c95749d55538ed473130ec0c7"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.7'",
             "version": "==2.1.1"
         },
         "matplotlib": {
