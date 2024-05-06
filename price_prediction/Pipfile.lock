@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a72911d1ec15c202bf4efd777204f9a2405927a8d02b5208578117e8db220feb"
+            "sha256": "9f3f2fc1e803b3642228de8880ae4ab297aa96c87f4676454c0df673a50ec5d5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -322,6 +322,7 @@
                 "sha256:fc7b548b17d238737688817ab67deebb30e8073c95749d55538ed473130ec0c7"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.7'",
             "version": "==2.1.1"
         },
         "matplotlib": {
@@ -648,11 +649,12 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:7ea2d48322cc7c0f8b3a215ed73eabd7b5d75d0b50e31ab006286ccff9e00b8f",
-                "sha256:f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5"
+                "sha256:097e5bfda9f0aba8da6b8545146def481d06aa7d3266e7448e2cccf67dd8bd18",
+                "sha256:fc9645dc43e03e4d630d23143a04a7f947a9a3b5727cd535fdfe155a17cc48c8"
             ],
             "index": "pypi",
-            "version": "==2.2.2"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.0.3"
         },
         "wincertstore": {
             "hashes": [
